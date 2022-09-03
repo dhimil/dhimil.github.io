@@ -28,6 +28,8 @@ url: "dhimil.github.io" # the base hostname & protocol for your site, e.g. http:
 twitter_username: dhimil
 github_username:  dhimil
 
+google_analytics: G-VFQRE35FHJ
+
 # Build settings
 theme: minima
 plugins:
