@@ -19,7 +19,7 @@ Currently learning from -
 | Company | Role | Industry |
 | ------ | ------ |
 | Zealth AI | Advisor | Healthcare |
-| Middleware, Inc | Angel | Developer productivity |
+| Middleware Software, Inc | Angel | Developer productivity |
 
 ## BrowserStack
 Started my journey in May 2013. It is an epic experience building and scaling most product for BrowserStack.
